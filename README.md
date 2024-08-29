@@ -176,7 +176,6 @@ In Home view, all the views button will be available. User will land on specific
 - Marketing View
 - Supply chain View
 - Executive View
-- Products
 - Support
 
 ## Overall Report
@@ -206,9 +205,7 @@ In Home view, all the views button will be available. User will land on specific
 
 ![Executive.gif](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/Executive.gif)
 
-## Products
 
-![Products](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/Products%20View.gif)
 
 you can find the full report file here : [Report](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Report/360.pbix)
 
