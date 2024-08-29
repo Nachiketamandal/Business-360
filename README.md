@@ -160,7 +160,7 @@ Fact table : It will have the data about the transactions
 - Following Good practices of data modeling is must. Refer this page to get to know the good practices [Blog](https://addendanalytics.com/blog/data-modelling-best-practices/)
 - In this project, we have followed Snowfall data modeling method.
 
-<img src="https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/Data_model.png" class="center">
+<img src=https://github.com/Nachiketamandal/Business-360/blob/main/Data_model.png>
 
 ### Dashboard designing
 
@@ -180,34 +180,34 @@ In Home view, all the views button will be available. User will land on specific
 
 ## Overall Report
 
-![Overall Report.gif]https://github.com/Nachiketamandal/Business-360/tree/main
+[Report]https://github.com/Nachiketamandal/Business-360/tree/main
 
 ## Info Page
 
-![Info.gif]https://github.com/Nachiketamandal/Business-360/blob/main/Info.png
+<img src=https://github.com/Nachiketamandal/Business-360/blob/main/Info.png>
 
 ## Finance View
 
-![Finace.gif]https://github.com/Nachiketamandal/Business-360/blob/main/Finance%20View.png
+<img src=https://github.com/Nachiketamandal/Business-360/blob/main/Finance%20View.png>
 ## Sales View
 
-![Sales.gif]https://github.com/Nachiketamandal/Business-360/blob/main/Sales%20View.png
+<img src=https://github.com/Nachiketamandal/Business-360/blob/main/Sales%20View.png>
 
 ## Marketing View
 
-![Marketing.gif]https://github.com/Nachiketamandal/Business-360/blob/main/Marketing%20View.png
+<img src=https://github.com/Nachiketamandal/Business-360/blob/main/Marketing%20View.png>
 
 ## Supply chain View
 
-![Supply chain.gif]https://github.com/Nachiketamandal/Business-360/blob/main/Supply%20Chain%20View.png
+<img src=https://github.com/Nachiketamandal/Business-360/blob/main/Supply%20Chain%20View.png>
 
 ## Executive View
 
-![Executive.gif]https://github.com/Nachiketamandal/Business-360/blob/main/Executive%20View.png
+<img src=https://github.com/Nachiketamandal/Business-360/blob/main/Executive%20View.png>
 
 
 
-you can find the full report file here : [Report](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Report/360.pbix)
+
 
 
 ## Project Outcome
